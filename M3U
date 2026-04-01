@@ -8,3 +8,35 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 https://str.yodacdn.net/xazartv/index.m3u8
 #EXTINF:-1,Azad Azərbaycan Tv
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0X30Jcv/In-Shot-20260329-112613007.png",Player Az dublyaj 1
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublyaj-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NwRdg67/In-Shot-20260329-113237867.png",Player Hind film 1
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-hindfilmleri.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGfYn7kk/In-Shot-20260329-113817675.png",Player Tom və Jarry
+https://catcast-tv2.koprulu2.workers.dev/?id=playercizgifilm-tomvejerry.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfPZKmz1/In-Shot-20260329-115217534.png",Player Hind music
+https://catcast-tv2.koprulu2.workers.dev/?id=playerhind-music.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NFf2043/In-Shot-20260329-121412374.png",Player Kemal Sunal
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-kemalsunal.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdVSNNFR/In-Shot-20260329-121856588.png",Player Maşa və ayı
+https://catcast-tv2.koprulu2.workers.dev/?id=playerczgflm-maaveay.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnwjkZgn/In-Shot-20260329-122641982.png",Player Action
+https://catcast-tv2.koprulu2.workers.dev/?id=playercınema.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnwjkZgn/In-Shot-20260329-122641982.png",Player Action 2
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-acsion2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnwjkZgn/In-Shot-20260329-122641982.png",Player Action 3
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-action3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J73zNtV4/In-Shot-20260329-123756862.png",Player Bozbaş pictures
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-bozbashpictures1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J73zNtV4/In-Shot-20260329-123756862.png",Player Bozbaş pictures 2
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-bozbashpikcher.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDx9Y1TQ/In-Shot-20260329-124349118.png",Player Azərbaycan
+https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm-azerbaycan.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKGxkhFv/In-Shot-20260329-124726365.png",Player Türkiyə
+https://catcast-tv2.koprulu2.workers.dev/?id=playerfilm turkiye.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pF8HSHw/In-Shot-20260329-125419061.png",Player AzFilm
+https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-azerbaycanfilm.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pF8HSHw/In-Shot-20260329-125419061.png",Player AzFilm 2
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-azfilm.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxbRy7hJ/In-Shot-20260329-131103035.png",Player Roman havası
+https://catcast-tv2.koprulu2.workers.dev/?id=playerkomedi-romanhavasi.m3u8
