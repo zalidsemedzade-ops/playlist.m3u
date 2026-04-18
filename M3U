@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png",Xəzər Tv
 https://str.yodacdn.net/xazartv/index.m3u8
 #EXTINF:-1,Azad Azərbaycan Tv
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+http://flussonic.izone.az:80/azadazerbaycan/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/D0X30Jcv/In-Shot-20260329-112613007.png",Player Az dublyaj 1
 https://catcast-tv2.koprulu2.workers.dev/?id=playercinema-aze_dublyaj-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4NwRdg67/In-Shot-20260329-113237867.png",Player Hind film 1
